@@ -1,5 +1,5 @@
 
-Problem Statement
+Problem Statement:
 This project is to predict if an application for a VISA will be approved or not. 
 
 Approach: 
