@@ -1,5 +1,0 @@
-mongodb
-userid: jdittenber
-password: jdittenber 
-
-mongodb+srv://jdittenber:jdittenber@cluster0.jjwgauv.mongodb.net/
