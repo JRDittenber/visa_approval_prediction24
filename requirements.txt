@@ -13,6 +13,7 @@ pymongo
 from_root 
 evidently==0.2.8
 dill 
+python-dotenv
 PyYAML 
 neuro_mf
 boto3
